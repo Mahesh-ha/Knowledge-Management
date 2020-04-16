@@ -10,4 +10,4 @@ Project Team:
 6. MD Faizan Siddiqui PES1201701740
 
 # Overview
-This case study deals with the KM strategies & practices in Tata group companies such as Tata Chemicals, Tata Iron & Steel Company & Tata Motors in detail. 
+This case study deals with the KM strategies & practices in Tata group companies such as Tata Chemicals, Tata Iron & Steel Company and Tata Motors in detail. 
